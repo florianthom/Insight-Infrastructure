@@ -1,0 +1,5 @@
+terraform -help plan
+terraform init
+terraform plan
+terraform apply # (-y)
+terraform destroy
